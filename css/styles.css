@@ -1,0 +1,77 @@
+#top-window
+{
+  background-color:#ce1212;
+}
+body
+{
+  background-color: #ce1212;
+}
+.container-fluid
+{
+
+  padding: 7% 35% 7% 35%;
+}
+.love
+{
+  text-align: center;
+}
+
+.img-fluid
+{
+padding: 20%;
+padding-top: 30%;
+}
+.icon
+{
+color: white;
+  margin-bottom: 1rem;
+}
+.icon:hover
+{
+  color: black;
+}
+h3
+{
+  font-family: 'Days One', sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+
+}
+p
+{
+  font-family: 'Lovers Quarrel', cursive;
+  font-size: 3rem;
+  color: white;
+}
+.baby
+{
+  font-family: 'Lovers Quarrel', cursive;
+  color: white;
+  text-align: center;
+}
+p:hover
+{
+  color: black;
+}
+h3:hover{
+color: white;
+}
+a
+{
+  color: red;
+  font-family: 'Days One', sans-serif;
+  text-align: center;
+}
+.ico
+{
+  color: red;
+}
+
+.btn
+{
+
+margin-left: 20%;
+font-family: 'Days One', sans-serif;
+text-align: center;
+padding-top: 1rem;
+}
